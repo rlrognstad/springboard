@@ -5,3 +5,5 @@ This repository is for all miniprojects and exercises competed as part of the [S
 Note: Capstone projects have their own separate repositories.
 
 ## Contents:
+
+1.  [Data wrangling with JSON](https://github.com/rlrognstad/springboard/tree/master/DataWranglingJSON) using World Bank projects database
