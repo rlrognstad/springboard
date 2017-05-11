@@ -9,3 +9,5 @@ Note: Capstone projects have their own separate repositories.
 1.  [Data wrangling with JSON](https://github.com/rlrognstad/springboard/tree/master/DataWranglingJSON) using World Bank projects database
 
 2.  [Data wrangling with XLM](https://github.com/rlrognstad/springboard/tree/master/data_wrangling_xml) using the Mondial database
+
+3.  [Pandas tutorial](https://github.com/rlrognstad/springboard/tree/master/pycon_pandas_tutorial) from Pycon
